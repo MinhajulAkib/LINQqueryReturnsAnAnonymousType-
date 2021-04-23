@@ -1,0 +1,12 @@
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.AssemblyInfoInputs.cache
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.AssemblyInfo.cs
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.csproj.CoreCompileInputs.cache
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.exe
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.deps.json
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.runtimeconfig.json
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.runtimeconfig.dev.json
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.dll
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\bin\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.pdb
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.dll
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.pdb
+D:\c#\LINQ Query returns an Anonymous Type\LINQ Query returns an Anonymous Type\obj\Debug\netcoreapp3.1\LINQ Query returns an Anonymous Type.genruntimeconfig.cache
